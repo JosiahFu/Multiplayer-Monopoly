@@ -1,0 +1,11 @@
+* Main
+* Space
+  * Buyable
+  * MoneySpace
+    * Property
+  * Chance
+* Graphic
+* UI
+* Player
+* Dice
+* CustomizeNames
