@@ -1,8 +1,8 @@
-package game;
+package src.game;
 
 // import java.util.Scanner;
 import java.util.ArrayList;
-import game.space.*;
+import src.game.space.*;
 
 public class Player {
 

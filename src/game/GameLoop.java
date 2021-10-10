@@ -1,11 +1,12 @@
-package game;
-import game.space.Space;
-import game.space.Chance;
-import game.Player;
-import game.PropertyFiller;
-import game.Graphic;
-import game.UI;
-import game.Dice;
+package src.game;
+
+import src.game.space.Space;
+import src.game.space.Chance;
+import src.game.Player;
+import src.game.PropertyFiller;
+import src.game.Graphic;
+import src.game.UI;
+import src.game.Dice;
 import java.util.ArrayList;
 
 public class GameLoop {

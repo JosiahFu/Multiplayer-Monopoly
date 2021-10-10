@@ -1,4 +1,4 @@
-package game;
+package src.game;
 
 public class Graphic {
   private static final String reset = "\033[0m";

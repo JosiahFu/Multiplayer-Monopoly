@@ -1,8 +1,8 @@
-package game.space;
+package src.game.space;
 
 import java.util.ArrayList;
-import game.Player;
-import game.GameLoop;
+import src.game.Player;
+import src.game.GameLoop;
 // import java.util.Scanner;
 
 public class Space {

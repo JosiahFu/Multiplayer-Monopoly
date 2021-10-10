@@ -1,7 +1,7 @@
-package game.space;
+package src.game.space;
 
-import game.Player;
-import game.UI;
+import src.game.Player;
+import src.game.UI;
 // import java.util.Scanner;
 
 public class Buyable extends Space {

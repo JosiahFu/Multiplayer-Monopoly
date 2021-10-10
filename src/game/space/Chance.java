@@ -1,8 +1,8 @@
-package game.space;
+package src.game.space;
 
 import java.util.Collections;
 import java.util.ArrayList;
-import game.Player;
+import src.game.Player;
 
 public class Chance extends Space {
   
