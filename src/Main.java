@@ -6,7 +6,6 @@ package src;
 import src.game.GameLoop;
 
 
-
 class Main {
   public static void main(String[] args) {
     GameLoop.runGame();
