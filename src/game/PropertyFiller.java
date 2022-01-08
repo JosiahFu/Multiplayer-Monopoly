@@ -1,7 +1,7 @@
-package game;
+package src.game;
 
 import java.util.ArrayList;
-import game.space.*;
+import src.game.space.*;
 
 public class PropertyFiller {
 

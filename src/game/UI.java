@@ -1,7 +1,7 @@
-package game;
+package src.game;
 
 import java.util.Scanner;
-import game.space.Space;
+import src.game.space.Space;
 
 public class UI {
   private static Scanner scanner = new Scanner(System.in);

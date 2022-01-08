@@ -1,4 +1,4 @@
-package game.space;
+package src.game.space;
 
 // import java.util.Scanner;
 

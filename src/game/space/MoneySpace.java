@@ -1,7 +1,7 @@
-package game.space;
+package src.game.space;
 
-import game.Player;
-import game.UI;
+import src.game.Player;
+import src.game.UI;
 
 public class MoneySpace extends Space {
 
